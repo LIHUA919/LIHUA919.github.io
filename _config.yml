@@ -21,7 +21,7 @@ repository               : "LIHUA919/LIHUA919.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "myself.jpg"
+  avatar           : "myself.png"
   name             : "Lihua LIU(刘立华)"
   #pronouns         : # example: "she/her"  
   bio              : "Westlake University"
