@@ -7,10 +7,10 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Hangzhou, China"
+locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Lihua LIU(刘立华)"
+name                     : &name "name"
 description              : &description "personal description"
 url                      : https://LIHUA919.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,12 +22,11 @@ repository               : "LIHUA919/LIHUA919.github.io"
 author:
   # Biographic information
   avatar           : "myself.jpg"
-  name             : "Lihua LIU
-                      (刘立华)"
+  name             : "Lihua LIU(刘立华)"
   #pronouns         : # example: "she/her"  
-  #bio              : "Short biography for the left-hand sidebar"
+  bio              : "Westlake University"
   location         : "Hangzhou, China"
-  employer         : "Westlake University"
+  #employer         : "Westlake University"
   #uri              : # URL
   email            : "lig93056@gmail.com" 
 
@@ -65,7 +64,7 @@ author:
   #steam            : # Username
   #telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  #twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
