@@ -17,5 +17,5 @@ I am very fortunate to be advised by[Prof. Bowen ZHU](https://www.westlake.edu.c
 You can find my CV here:[Lihua LIU's Curriculum Vitae](../assets/CV.pdf).
 
 
-[Email](mailto:lig93056@gmail.com)/[Github](https://github.com/LIHUA919)/[Wechat](../images/wechat.jpg)/[twitter](https://x.com/ghli01950785?s=05)
+[Email](mailto:lig93056@gmail.com)/[Github](https://github.com/LIHUA919)/[Wechat](../images/WeChat.jpg)/[twitter](https://x.com/ghli01950785?s=05)
 
