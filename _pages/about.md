@@ -23,6 +23,9 @@ Some thoughts about the future
 ======
 China's aging population is growing. According to estimates, it is expected that during the "14th Five-Year Plan" period, the total population aged 60 and above will exceed **300 million**, accounting for more than 20%, and will enter the moderate aging stage. Around 2035, the elderly population aged 60 and above will exceed **400 million**, accounting for more than 30% of the total population, and will enter the stage of severe aging.
 
+Based on my observations of the elderly around me and research on [relevant information](). **Common problems** among the elderly include the following:
+
+
 
 
 
