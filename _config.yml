@@ -22,7 +22,8 @@ repository               : "LIHUA919/LIHUA919.github.io"
 author:
   # Biographic information
   avatar           : "myself.png"
-  name             : "Lihua LIU|(刘立华)"
+  name             :| "Lihua LIU
+                      (刘立华)"
   #pronouns         : # example: "she/her"  
   bio              : "Westlake University"
   location         : "Hangzhou, China"
