@@ -33,9 +33,8 @@ In response to the above issues, I have some simple thoughts.
 
 Education
 ======
-1. 2019.09 - 2023.07, Shandong University of Science and Technology, Qingdao
-2. 2016.09 - 2019.06, No. 2 Senior High School in Yishui County, Shandong Province
-
+1.  2019.09 - 2023.06, Shandong University of Science and Technology, Qingdao
+2.  2016.09 - 2019.06, No. 2 Senior High School in Yishui County, Shandong Province
 
  
  
