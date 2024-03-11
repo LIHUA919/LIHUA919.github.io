@@ -28,6 +28,7 @@ Based on my observations of the elderly around me and research on [relevant info
 2. The incidence of major diseases is higher among the elderly, and after treatment, their quality of life is generally poor.
 3. A considerable number of elderly people cannot take care of themselves and lack the care of relatives around them.
 4. A considerable number of elderly people live alone. Due to the lack of social and children's care, they have common mental health problems, such as loneliness and depression. Anxiety etc.
+
 In response to the above issues, I have some simple thoughts.
 
 
