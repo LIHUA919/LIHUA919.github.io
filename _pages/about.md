@@ -11,7 +11,7 @@ redirect_from:
 I am currently a researcher from [Westlake University](https://www.westlake.edu.cn). I majored in Automation&Control at [Shandong University of Science and Technology](https://www.sdust.edu.cn/) for my undergraduate degree form 2019 to 2023, advised by [Prof. Xinyan HU]() from [College of Electrical Engineering and Automation](https://xindian.sdust.edu.cn/). I have received my Bachelor of Engineering degree in June 2023. My research interest includes robotics, robot multi-modal perception fusion, electronic skin, computer vision, machine learning, reinforcement learning and LLMs.
 
 
-I am very fortunate to be advised by[Prof. Fangzhou Xiao](https://www.westlake.edu.cn/faculty/fangzhou-xiao.html) of the [biomachine architecture and control (BMAC) lab]( https://chemaoxfz.github.io/) from [School of Engineering](https://engineering.westlake.edu.cn/), Westlake University.
+I am very fortunate to be advised by [Prof. Fangzhou Xiao](https://www.westlake.edu.cn/faculty/fangzhou-xiao.html) of the [biomachine architecture and control (BMAC) lab]( https://chemaoxfz.github.io/) from [School of Engineering](https://engineering.westlake.edu.cn/), Westlake University.
 
 
 You can find my CV here:[Lihua LIU's Curriculum Vitae](../assets/CV.pdf).
