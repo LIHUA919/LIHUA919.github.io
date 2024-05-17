@@ -93,6 +93,10 @@ Although I was born and raised in Shanghai, China, my true origins trace back to
 I am an amateur novelist, [painter](/images/hey_you.jpg), and photographer. I take photos of [cats](/images/cat.jpg), [my sister](/images/my_cool_sister.jpg), [grandparents](/images/my_grandparents.jpg), [friends](/images/on_my_21th_birthday.png), [campus](/images/campus.png), etc., in my spare time.
 
 
+Went camping! Be back soon.
+
+so funny! :tent: Be back soon
+
  
  
 
