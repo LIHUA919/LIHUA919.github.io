@@ -15,6 +15,10 @@ You can find my CV here:[Lihua LIU's Curriculum Vitae](../assets/CV.pdf).
 
 [Email](mailto:lig93056@gmail.com)/[Github](https://github.com/LIHUA919)/[Wechat](../images/WeChat.jpg)/[bilibili](https://space.bilibili.com/439313285?spm_id_from=333.1007.0.0)/[twitter](https://x.com/yZHxkVi1aTjSJmJ?t=gLeLiiRThdvMeOBR-LzOwg&s=09)/[TikTok]( https://v.douyin.com/iMkvpbmK/)
 
+Hobbies
+======
+I like cycling. I once cycled from Linyi, Shandong to Hangzhou, Zhejiang, a distance of about 800 kilometers. I like running and climbing since I started my undergraduate studies.
+
 Some thoughts about the future
 ======
 China's aging population is growing. According to estimates, it is expected that during the "14th Five-Year Plan" period, the total population aged 60 and above will exceed **300 million**, accounting for more than 20%, and will enter the moderate aging stage. Around 2035, the elderly population aged 60 and above will exceed **400 million**, accounting for more than 30% of the total population, and will enter the stage of severe aging.
