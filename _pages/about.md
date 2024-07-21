@@ -33,7 +33,7 @@ Based on my observations of the elderly around me and research on [relevant info
 3. A considerable number of elderly people cannot take care of themselves and lack the care of relatives around them.
 4. A considerable number of elderly people live alone. Due to the lack of social and children's care, they have common mental health problems, such as loneliness and depression. Anxiety etc.
 
-In response to the above issues, I have some simple thoughts. **I would like to try something in the elderly care industry**. Please contact me for specific details. In addition, **everyone is welcome to discuss the mature applications of flexible tactile sensor arrays and robot multi-modal sensing in the industry, some innovative attempts, and potential markets**.
+In response to the above issues, I have some simple thoughts. **I would like to try something in the elderly care industry**. Please contact me for specific details. In addition, **everyone is welcome to discuss the mature applications of flexible tactile sensor arrays and robot multi-modal sensing in the industry and AIGC, some innovative attempts, and potential markets**.
 
 Education
 ======
