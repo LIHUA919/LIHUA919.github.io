@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 
-I am currently a researcher from [Westlake University](https://www.westlake.edu.cn). I majored in Automation&Control at [Shandong University of Science and Technology](https://www.sdust.edu.cn/) for my undergraduate degree form 2019 to 2023, advised by [Prof. Xinyan HU]() from [College of Electrical Engineering and Automation](https://xindian.sdust.edu.cn/). I have received my Bachelor of Engineering degree in June 2023. My research interest includes robotics, robot multi-modal perception fusion, electronic skin, computer vision, machine learning, reinforcement learning and LLMs.
+I am looking for a fall 2025 PhD position. I majored in Automation&Control at [Shandong University of Science and Technology](https://www.sdust.edu.cn/) for my undergraduate degree form 2019 to 2023, advised by [Prof. Xinyan HU]() from [College of Electrical Engineering and Automation](https://xindian.sdust.edu.cn/). I have received my Bachelor of Engineering degree in June 2023. My research interest includes **computer vision, Gen AI, LLMs,diffusion models and etc**.
 
 You can find my CV here:[Lihua LIU's Curriculum Vitae](../assets/CV.pdf).
 
 
-[Email](mailto:lig93056@gmail.com)/[Github](https://github.com/LIHUA919)/[Wechat](../images/WeChat.jpg)/[bilibili](https://space.bilibili.com/439313285?spm_id_from=333.1007.0.0)/[twitter](https://x.com/yZHxkVi1aTjSJmJ?t=gLeLiiRThdvMeOBR-LzOwg&s=09)
+[Email](mailto:lig93056@gmail.com)/[Github](https://github.com/LIHUA919)/[Wechat](../images/WeChat.jpg)/[bilibili](https://space.bilibili.com/439313285?spm_id_from=333.1007.0.0)/[twitter](https://x.com/yZHxkVi1aTjSJmJ?t=gLeLiiRThdvMeOBR-LzOwg&s=09)/[TikTok]( https://v.douyin.com/iMkvpbmK/)
 
 Some thoughts about the future
 ======
