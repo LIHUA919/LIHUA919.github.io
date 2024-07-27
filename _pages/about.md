@@ -43,8 +43,8 @@ In response to the above issues, I have some simple thoughts. **I would like to 
 
 Education
 ======
-1.  2019.09 - 2023.06, Shandong University of Science and Technology, China
-2.  2016.09 - 2019.06, No. 2 Senior High School in Yishui County, China
+- 2019.09 - 2023.06, Shandong University of Science and Technology, China
+- 2016.09 - 2019.06, No. 2 Senior High School in Yishui County, China
 
 About me
 ======
