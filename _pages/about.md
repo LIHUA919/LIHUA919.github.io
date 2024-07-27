@@ -44,8 +44,9 @@ Education
 1.  2019.09 - 2023.06, Shandong University of Science and Technology, China
 2.  2016.09 - 2019.06, No. 2 Senior High School in Yishui County, China
 
-
-
+About me
+======
+I was born and raised in a small town in Yishui County, Shandong Province, where I spent the first 18 years of my life, even though it was not rich. Where are my parents, grandparents, sister and other relatives. Looking back on the past ten years of study road, this way is really hard, from the middle school began to live in school, then to high school, university, and now. Before the age of 18, I was almost obsessed with physics and vowed to become a theoretical physicist. After entering university, I found myself a frog in the bottom of a well. Subsequently, I gradually understand the world, to discover what I believe in, and gradually I am obsessed with AGI, although this road is difficult, I will go on!
  
  
 
