@@ -21,15 +21,18 @@ I like cycling. I once cycled from Linyi, Shandong to Hangzhou, Zhejiang, a dist
 
 Recently Projects
 ======
-Coming Soon!
-
+- Search Agent
+- Emotional accompaniment agent
+  
 Daily Thoughts
 ======
-- `我想谈一谈我对学术的理解，以我目前几年的研究经历来讲，我自己觉得大学（特指中国大陆的高校，其他地方我没有亲身经历过）和工业界各玩各的，好像似乎一点联系都没有。这点我觉得其实很不好，我认为学术研究的最终目的终究是要应用的工业界。推动人类社会的发展，产生新的增量。否则话，或许是自娱自乐吧。我认为读博的动机应该是这样，我信仰某个技术在未来10或者更长的时间内会爆发，我愿意投入5年甚至更长的时间去定义这个技术或者推动这个技术的发展，还有就是工业界存在一些难题，值得你单独拿出几年的时间去攻克这个难题。`
-- self-motivation：真的需要长时间接触才能察觉出来！
+- 从第一性原理出发，做这个时代最有价值的事情！
+- ~~我想谈一谈我对学术的理解，以我目前几年的研究经历来讲，我自己觉得大学（特指中国大陆的高校，其他地方我没有亲身经历过）和工业界各玩各的，好像似乎一点联系都没有。这点我觉得其实很不好，我认为学术研究的最终目的终究是要应用的工业界。推动人类社会的发展，产生新的增量。否则话，或许是自娱自乐吧。我认为读博的动机应该是这样，我信仰某个技术在未来10或者更长的时间内会爆发，我愿意投入5年甚至更长的时间去定义这个技术或者推动这个技术的发展，还有就是工业界存在一些难题，值得你单独拿出几年的时间去攻克这个难题。~~
+- self-motivation：真正的self-motivation来源于信仰和热爱！真的需要长时间接触才能察觉出来！
+- `hsl(212, 92%, 45%)1066` 
 
 
-Some thoughts about the future
+Some thoughts about the future(_Emotional accompaniment agent idea source_)
 ======
 China's aging population is growing. According to estimates, it is expected that during the "14th Five-Year Plan" period, the total population aged 60 and above will exceed **300 million**, accounting for more than 20%, and will enter the moderate aging stage. Around 2035, the elderly population aged 60 and above will exceed **400 million**, accounting for more than 30% of the total population, and will enter the stage of severe aging.
 
