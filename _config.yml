@@ -24,7 +24,7 @@ author:
   avatar           : "myself.png"
   name             : "Lihua LIU(刘立华)"
   #pronouns         : # example: "she/her"  
-  bio              : "Westlake University"
+  bio              : #"Westlake University"
   location         : "Hangzhou, China"
   #employer         : "Westlake University"
   #uri              : # URL
@@ -64,8 +64,8 @@ author:
   #steam            : # Username
   #telegram         : # URL
   #tumblr           : # Username
-  #twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
-  bilibili          : "https://space.bilibili.com/439313285?spm_id_from=333.1007.0.0"
+  #twitter          : "Lihua919"  # Replace this with your X / Twitter handle
+  bilibili          : "有理化_"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
