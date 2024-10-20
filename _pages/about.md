@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am looking for a fall 2025 PhD position. I majored in Automation&Control at [Shandong University of Science and Technology](https://www.sdust.edu.cn/) for my undergraduate degree form 2019 to 2023, advised by [Prof. Xinyan HU]() from [College of Electrical Engineering and Automation](https://xindian.sdust.edu.cn/). I have received my Bachelor of Engineering degree in June 2023. My research interest includes **computer vision, Gen AI, LLMs,diffusion models and etc**.
+I am looking for a fall 2025 PhD position. I majored in Automation&Control at [Shandong University of Science and Technology](https://www.sdust.edu.cn/) for my undergraduate degree form 2019 to 2023, advised by [Prof. Xinyan HU]() from [College of Electrical Engineering and Automation](https://xindian.sdust.edu.cn/). I have received my Bachelor of Engineering degree in June 2023. My research interest includes **LLMs, LLM-Agent, VLMs, machine learning and etc**.
 
 You can find my CV here:[Lihua LIU's Curriculum Vitae](../assets/CV.pdf).
 
@@ -25,7 +25,7 @@ Coming Soon!
 
 Daily Thoughts
 ======
-- 我想谈一谈我对学术的理解，以我目前几年的研究经历来讲，我自己觉得大学（特指中国大陆的高校，其他地方我没有亲身经历过）和工业界各玩各的，好像似乎一点联系都没有。这点我觉得其实很不好，我认为学术研究的最终目的终究是要应用的工业界。推动人类社会的发展，产生新的增量。否则话，或许是自娱自乐吧。我认为读博的动机应该是这样，我信仰某个技术在未来10或者更长的时间内会爆发，我愿意投入5年甚至更长的时间去定义这个技术或者推动这个技术的发展，还有就是工业界存在一些难题，值得你单独拿出几年的时间去攻克这个难题。
+- `我想谈一谈我对学术的理解，以我目前几年的研究经历来讲，我自己觉得大学（特指中国大陆的高校，其他地方我没有亲身经历过）和工业界各玩各的，好像似乎一点联系都没有。这点我觉得其实很不好，我认为学术研究的最终目的终究是要应用的工业界。推动人类社会的发展，产生新的增量。否则话，或许是自娱自乐吧。我认为读博的动机应该是这样，我信仰某个技术在未来10或者更长的时间内会爆发，我愿意投入5年甚至更长的时间去定义这个技术或者推动这个技术的发展，还有就是工业界存在一些难题，值得你单独拿出几年的时间去攻克这个难题。`
 - self-motivation：真的需要长时间接触才能察觉出来！
 
 
