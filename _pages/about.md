@@ -19,10 +19,29 @@ Hobbies
 ======
 I like cycling. I once cycled from Linyi, Shandong to Hangzhou, Zhejiang, a distance of about 800 kilometers. I like running and climbing since I started my undergraduate studies.
 
-Recently Projects
-======
-- Search Agent
-- Emotional accompaniment agent
+<style>
+table, td, th, tr {
+   border: none!important;
+   font-size: 14px;
+}
+</style>
+<h2><span>Recently Projects</span></h2>
+<div class='paper-box-text' markdown="1">
+<h3>Search-Agent</h3>
+
+<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Our AgentOccam surpasses the previous state-of-the-art and concurrent LLM-based web agent with its observation and action space alignment. We achieve this without using in-context examples, new agent roles, online feedback or search strategies.</em>
+</div>
+</div>
+
+
+<div class='paper-box-text' markdown="1">
+<h3>Emotional accompaniment agent</h3>
+
+<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Prejudice-Volatility Framework comprehensively measures discrimination in models by considering both their consistently biased preference and preference variation across diverse contexts.</em>
+</div>
+</div>
+
+
   
 Daily Thoughts
 ======
