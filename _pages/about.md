@@ -31,7 +31,7 @@ table, td, th, tr {
 
 <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Our AgentOccam surpasses the previous state-of-the-art and concurrent LLM-based web agent with its observation and action space alignment. We achieve this without using in-context examples, new agent roles, online feedback or search strategies.</em>
 </div>
-</div>
+
 
 
 <div class='paper-box-text' markdown="1">
@@ -39,7 +39,7 @@ table, td, th, tr {
 
 <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Prejudice-Volatility Framework comprehensively measures discrimination in models by considering both their consistently biased preference and preference variation across diverse contexts.</em>
 </div>
-</div>
+
 
 
   
