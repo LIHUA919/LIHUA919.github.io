@@ -13,7 +13,7 @@ I am looking for a fall 2025 PhD position. I majored in Automation&Control at [S
 You can find my CV here:[Lihua LIU's Curriculum Vitae](../assets/CV.pdf).
 
 
-[Email](mailto:lig93056@gmail.com)/[Github](https://github.com/LIHUA919)/[Wechat](../images/WeChat.jpg)/[bilibili](https://space.bilibili.com/439313285?spm_id_from=333.1007.0.0)/[twitter](https://x.com/yZHxkVi1aTjSJmJ?t=gLeLiiRThdvMeOBR-LzOwg&s=09)/[TikTok]( https://v.douyin.com/iMkvpbmK/)
+[Email](mailto:lig93056@gmail.com)/[Github](https://github.com/LIHUA919)/[Wechat](../images/WeChat.jpg)/[bilibili](https://space.bilibili.com/439313285?spm_id_from=333.1007.0.0)/[twitter](https://x.com/Lihua919=gLeLiiRThdvMeOBR-LzOwg&s=09)/[TikTok]( https://v.douyin.com/iMkvpbmK/)
 
 Hobbies
 ======
