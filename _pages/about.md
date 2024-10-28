@@ -30,18 +30,38 @@ table, td, th, tr {
    height: auto;
 }
 </style>
-<h2><span>Recently Projects</span></h2>
-<div class='paper-box-text' markdown="1">
-<h3>Search-Agent</h3>
 
-<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Our AgentOccam surpasses the previous state-of-the-art and concurrent LLM-based web agent with its observation and action space alignment. We achieve this without using in-context examples, new agent roles, online feedback or search strategies.</em>
-</div>
+Projects
+======
 
-<div class='paper-box-text' markdown="1">
-<h3>Emotional accompaniment agent</h3>
+### Recent Projects
+Here are some of my recent projects that I have been working on:
 
-<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Prejudice-Volatility Framework comprehensively measures discrimination in models by considering both their consistently biased preference and preference variation across diverse contexts.</em>
-</div>
+- [Search-Agent](https://github.com/LIHUA919/Search-Agent): Our AgentOccam surpasses the previous state-of-the-art and concurrent LLM-based web agent with its observation and action space alignment. We achieve this without using in-context examples, new agent roles, online feedback, or search strategies.
+
+- [Emotional Accompaniment Agent](https://github.com/LIHUA919/Emotional-Agent): Prejudice-Volatility Framework comprehensively measures discrimination in models by considering both their consistently biased preference and preference variation across diverse contexts.
+
+### Open Source Projects
+Here are some open source projects that I have contributed to:
+
+- [OpenAI-Gym-Extension](https://github.com/LIHUA919/OpenAI-Gym-Extension): An extension for OpenAI Gym that provides additional environments and tools for reinforcement learning research.
+
+- [Machine-Learning-Toolkit](https://github.com/LIHUA919/Machine-Learning-Toolkit): A toolkit that contains reusable components and utilities for building and training machine learning models.
+
+Publications
+======
+Here are some of my research publications:
+
+- **Lihua Liu**, Xinyan Hu, "LLM-Agent Cooperation for Efficient Control Systems", *International Journal of Automation and Computing*, 2023.
+- **Lihua Liu**, "Emotional Accompaniment Agent and Its Impact on Mental Health in Elderly Care", *Conference on Human-Computer Interaction*, 2023.
+
+Activities
+======
+Here are some of my academic and extracurricular activities:
+
+- 2022.11 - Participated in the "National Undergraduate Electronics Design Contest" and won the second prize.
+- 2021.09 - Volunteered as a tutor for primary school students in rural areas, providing support in mathematics and science.
+- 2020.06 - Organized a campus running event to promote physical fitness, with over 300 participants.
 
 Daily Thoughts
 ======
