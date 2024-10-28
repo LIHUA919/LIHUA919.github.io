@@ -64,6 +64,12 @@ Here are some of my research publications:
 - **Lihua Liu**, Xinyan Hu, "LLM-Agent Cooperation for Efficient Control Systems", *International Journal of Automation and Computing*, 2023.
 - **Lihua Liu**, "Emotional Accompaniment Agent and Its Impact on Mental Health in Elderly Care", *Conference on Human-Computer Interaction*, 2023.
 
+
+<details>
+  <summary>More Daily Thoughts</summary>
+  
+</details>
+
 Daily Thoughts
 ======
 - 从第一性原理出发，做这个时代最有价值的事情！
