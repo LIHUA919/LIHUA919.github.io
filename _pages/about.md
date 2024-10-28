@@ -27,18 +27,36 @@ News
     <li>2023.03 - Completed a project on Emotional Accompaniment Agents for Elderly Care with collaboration from the College of Electrical Engineering and Automation.</li>
   </ul>
 </details>
-<div class="carousel" onclick="toggleCarousel()">
+
+<!-- 触发按钮 -->
+<button onclick="toggleCarousel()">显示/隐藏轮播</button>
+
+<!-- 轮播容器 -->
+<div class="carousel">
   <img src="../images/news1.jpg" alt="News 1">
   <img src="../images/news2.jpg" alt="News 2">
   <img src="../images/news3.jpg" alt="News 3">
 </div>
+
+<!-- 样式 -->
+<style>
+.carousel {
+   display: none;
+}
+.carousel img {
+   width: 100%;
+   height: auto;
+}
+</style>
+
+<!-- 脚本 -->
 <script>
 function toggleCarousel() {
   const carousel = document.querySelector(".carousel");
   carousel.style.display = (carousel.style.display === "none" || carousel.style.display === "") ? "block" : "none";
 }
-document.querySelector(".carousel").style.display = "none";
 </script>
+
 
 Projects
 ======
@@ -64,11 +82,6 @@ Here are some of my research publications:
 - **Lihua Liu**, Xinyan Hu, "LLM-Agent Cooperation for Efficient Control Systems", *International Journal of Automation and Computing*, 2023.
 - **Lihua Liu**, "Emotional Accompaniment Agent and Its Impact on Mental Health in Elderly Care", *Conference on Human-Computer Interaction*, 2023.
 
-
-<details>
-  <summary>More Daily Thoughts</summary>
-  
-</details>
 
 Daily Thoughts
 ======
