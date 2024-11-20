@@ -19,7 +19,7 @@ You can find my CV here: [Lihua LIU's Curriculum Vitae](../assets/CV.pdf).
 News
 ======
 ### Current News
-- **2024.11.14** [![AgentOccam Featured in AI Research Digest](../images/agent-occam-news.jpg)](../images/agent-occam-news.jpg): Our Search-Agent project gains recognition in AI research community.
+- **2024.11.14** [![AgentOccam Featured in AI Research Digest](../images/WechatIMG56.jpg)](../images/agent-occam-news.jpg): Our Search-Agent project gains recognition in AI research community.
 - **2024.10.26** [![AgentOccam Featured in AI Research Digest](../images/agent-occam-news.jpg)](../images/agent-occam-news.jpg): Our Search-Agent project gains recognition in AI research community.
 
 
