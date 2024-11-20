@@ -16,6 +16,21 @@ You can find my CV here: [Lihua LIU's Curriculum Vitae](../assets/CV.pdf).
 
 
 
+News
+======
+### Current News
+- **2024.02.15** [![AgentOccam Featured in AI Research Digest](../images/agent-occam-news.jpg)](../images/agent-occam-news.jpg): Our Search-Agent project gains recognition in AI research community.
+
+### Old News
+<details>
+<summary>Show Previous News</summary>
+
+- **2023.11.20** [![Emotional AI Research Recognized](../images/emotional-ai-news.jpg)](../images/emotional-ai-news.jpg): Coverage of our Emotional Accompaniment Agent research.
+- **2023.09.05** [![Machine Learning Toolkit Community Response](../images/ml-toolkit-news.jpg)](../images/ml-toolkit-news.jpg): Open source project gains traction in research community.
+</details>
+
+
+
 Projects
 ======
 
