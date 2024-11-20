@@ -19,8 +19,9 @@ You can find my CV here: [Lihua LIU's Curriculum Vitae](../assets/CV.pdf).
 News
 ======
 ### Current News
-- **2024.11.14** [![AgentOccam Featured in AI Research Digest](../images/WechatIMG56.jpg)](../images/agent-occam-news.jpg): Our Search-Agent project gains recognition in AI research community.
-- **2024.10.26** [![AgentOccam Featured in AI Research Digest](../images/agent-occam-news.jpg)](../images/agent-occam-news.jpg): Our Search-Agent project gains recognition in AI research community.
+- **2024.11.14** [![Participated in 2024 3rd ZJU National Academic Forum For Ph.D Candidates](../images/1WechatIMG56.jpg)](../images/WechatIMG57.jpg
+): Our Search-Agent project gains recognition in AI research community.
+- **2024.10.26** [![Participated in the YC China Women Entrepreneurs Conference](../images/agent-occam-news.jpg)](../images/agent-occam-news.jpg): 
 
 
 ### Old News
@@ -38,11 +39,14 @@ Projects
 ### Recent Projects
 - [Search-Agent](https://github.com/LIHUA919/Search-Agent): Our AgentOccam surpasses the previous state-of-the-art and concurrent LLM-based web agent with its observation and action space alignment. We achieve this without using in-context examples, new agent roles, online feedback, or search strategies.
 
-- [Emotional Accompaniment Agent](https://github.com/LIHUA919/Emotional-Agent): Prejudice-Volatility Framework comprehensively measures discrimination in models by considering both their consistently biased preference and preference variation across diverse contexts.
+- [AI-Agent](https://github.com/LIHUA919/AI-Agent): Prejudice-Volatility Framework comprehensively measures discrimination in models by considering both their consistently biased preference and preference variation across diverse contexts.
 
 ### Open Source Projects
-- [OpenAI-Gym-Extension](https://github.com/LIHUA919/OpenAI-Gym-Extension): An extension for OpenAI Gym that provides additional environments and tools for reinforcement learning research.
-
+- [GraphRAG](https://github.com/LIHUA919/graphrag): The GraphRAG process involves extracting a knowledge graph out of raw text, building a community hierarchy, generating summaries for these communities, and then leveraging these structures when perform RAG-based tasks.
+- [VARAG](https://github.com/LIHUA919/VARAG): VARAG (Vision-Augmented Retrieval and Generation) is a vision-first RAG engine that emphasizes vision-based retrieval techniques. It enhances traditional Retrieval-Augmented Generation (RAG) systems by integrating both visual and textual data through Vision-Language models.
+- [Openvla](https://github.com/LIHUA919/openvla): A simple and scalable codebase for training and fine-tuning vision-language-action models (VLAs) for generalist robotic manipulation.
+- [AutoGPT](https://github.com/LIHUA919/AutoGPT):AutoGPT is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.
+  
 ### Previous Projects
 <details>
 <summary>Show Older Projects</summary>
@@ -85,7 +89,7 @@ Social Contributions 🤝
 ======
 ### Current Contributions
 - 2022.11 - Participated in the "National Undergraduate Electronics Design Contest" and won the second prize.
-  ![Electronics Contest 1](../images/electronics-contest-1.jpg)
+  ![Electronics Contest 1](../images/1WechatIMG58.jpg)
   ![Electronics Contest 2](../images/electronics-contest-2.jpg)
   ![Electronics Contest 3](../images/electronics-contest-3.jpg)
 
@@ -112,26 +116,15 @@ I like cycling. I once cycled from Linyi, Shandong to Hangzhou, Zhejiang, a dist
 
 Internships and Work Experience 💼
 ======
-### Research Internships
-- **AI Research Intern**, [AI Lab/Research Center], [Location]
-  - Dates: Summer 2023
+### Work Experience
+- **RA**, [Westlake Institute For Optoelectronics,], [Hangzhou,China]
+  - Dates: July.2023 - Aug.2024
   - Key Responsibilities:
     * Developed machine learning models for [specific research project]
     * Collaborated with research team on advanced AI methodologies
     * Implemented novel approaches in [specific AI domain]
   ![Research Internship 1](../images/research-internship-1.jpg)
   ![Research Internship 2](../images/research-internship-2.jpg)
-
-### Industry Experience
-- **Machine Learning Engineer Intern**, [Tech Company Name], [Location]
-  - Dates: Winter 2022-2023
-  - Key Achievements:
-    * Developed and optimized AI-driven solutions for [specific industry problem]
-    * Improved model performance by [specific percentage or metric]
-    * Worked with cutting-edge technologies like [relevant AI/ML technologies]
-  ![Industry Internship 1](../images/industry-internship-1.jpg)
-  ![Industry Internship 2](../images/industry-internship-2.jpg)
-
 
 Education
 ======
