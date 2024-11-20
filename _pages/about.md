@@ -13,49 +13,7 @@ You can find my CV here: [Lihua LIU's Curriculum Vitae](../assets/CV.pdf).
 
 [Email](mailto:lig93056@gmail.com)/[Github](https://github.com/LIHUA919)/[Wechat](../images/WeChat.jpg)/[bilibili](https://space.bilibili.com/439313285?spm_id_from=333.1007.0.0)/[twitter](https://x.com/yZHxkVi1aTjSJmJ?t=gLeLiiRThdvMeOBR-LzOwg&s=09)/[TikTok]( https://v.douyin.com/iMkvpbmK/)
 
-News
-======
-<ul>
-  <li>2023.10 - Started developing a new agent-based model for VLMs application in real-time data environments.</li>
-  <li>2023.09 - Joined a collaborative research project on multi-modal robotic sensing applications.</li>
-</ul>
-<details>
-  <summary>Before September 2023</summary>
-  <ul>
-    <li>2023.07 - Participated in the International Conference on Machine Learning, presenting a poster on LLM-Agent cooperation models.</li>
-    <li>2023.05 - Received the Outstanding Undergraduate Research Award from Shandong University of Science and Technology.</li>
-    <li>2023.03 - Completed a project on Emotional Accompaniment Agents for Elderly Care with collaboration from the College of Electrical Engineering and Automation.</li>
-  </ul>
-</details>
 
-<!-- 触发按钮 -->
-<button onclick="toggleCarousel()">显示/隐藏轮播</button>
-
-<!-- 轮播容器 -->
-<div class="carousel">
-  <img src="../images/news1.jpg" alt="News 1">
-  <img src="../images/news2.jpg" alt="News 2">
-  <img src="../images/news3.jpg" alt="News 3">
-</div>
-
-<!-- 样式 -->
-<style>
-.carousel {
-   display: none;
-}
-.carousel img {
-   width: 100%;
-   height: auto;
-}
-</style>
-
-<!-- 脚本 -->
-<script>
-function toggleCarousel() {
-  const carousel = document.querySelector(".carousel");
-  carousel.style.display = (carousel.style.display === "none" || carousel.style.display === "") ? "block" : "none";
-}
-</script>
 
 
 Projects
@@ -119,19 +77,7 @@ Hobbies
 ======
 I like cycling. I once cycled from Linyi, Shandong to Hangzhou, Zhejiang, a distance of about 800 kilometers. I like running and climbing since I started my undergraduate studies.
 
-<style>
-table, td, th, tr {
-   border: none!important;
-   font-size: 14px;
-}
-.carousel {
-   display: none;
-}
-.carousel img {
-   width: 100%;
-   height: auto;
-}
-</style>
+
 
 
 
