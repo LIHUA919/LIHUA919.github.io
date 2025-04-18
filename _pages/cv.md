@@ -11,27 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+ <!-- 这是一个注释，不会在网页上显示 *Ph.D in Version Control Theory, GitHub University, 2018 (expected)-->
+<!-- 这是一个注释，不会在网页上显示* M.S. in Jekyll, GitHub University, 2014 -->
+* Shandong University of Science and Technology, China 2019-2023
+  * Automation
+* Westlake University，2023-
+  * CS
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2024: Co-Funder
+  * Startup about Vertical Agents
+  * Duties includes: Rapid product development
+  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2023: Researcher
+  * Westlake University
+  * Duties included: Focus on LLM, Language agents
+  
 
-* Summer 2015: Research Assistant
+<!--* Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+  * Supervisor: Professor Git -->
+
+<!-- 这是一个注释，不会在网页上显示 
 Skills
 ======
 * Skill 1
@@ -58,7 +62,8 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+  -->
+
+<!--Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
