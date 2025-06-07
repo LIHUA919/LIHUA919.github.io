@@ -20,10 +20,10 @@ Selected Work
 <!--Getting started
 ====== -->
 <!--  . Register a GitHub account if you don't have one and confirm your e-mail (required!) -->
-* [oasis](https://github.com/LIHUA919/oasis)<!--Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  -->
-* [OpenManus](https://github.com/mannaandpoem/OpenManus) <!--by clicking the "Use this template" button in the top right. -->
-* [GraphRAG](https://github.com/LIHUA919/graphrag) <!--Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL. -->
-* [SWE-agent](https://github.com/LIHUA919/SWE-agent)<!--Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")-->
+<!--* [oasis](https://github.com/LIHUA919/oasis)<!--Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  -->
+<!--* [OpenManus](https://github.com/mannaandpoem/OpenManus) <!--by clicking the "Use this template" button in the top right. -->
+<!--* [GraphRAG](https://github.com/LIHUA919/graphrag) <!--Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL. -->
+<!--* [SWE-agent](https://github.com/LIHUA919/SWE-agent)<!--Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")-->
 *  [VARAG](https://github.com/LIHUA919/VARAG)<!--Check status by going to the repository settings, in the "GitHub pages" section -->
 
 Hobbies
